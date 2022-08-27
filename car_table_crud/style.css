@@ -1,0 +1,10 @@
+.main {
+    background-color: whitesmoke;
+    margin-top: 10px;
+    max-width: 400px;
+    align-items: center;
+}
+
+input {
+    margin-top: 10px;
+}
